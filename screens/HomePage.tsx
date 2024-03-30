@@ -33,6 +33,15 @@ const listOfContent = [
       },
     ],
   },
+  {
+    title: 'Freestyle dulu bos',
+    data: [
+      {
+        name: 'Login Page (React Native)',
+        screen: 'LoginFreestylePage',
+      },
+    ],
+  },
 ];
 
 const HomePage: React.FC<Props> = props => {

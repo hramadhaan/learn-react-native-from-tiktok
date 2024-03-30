@@ -4,6 +4,7 @@ import HomePage from '../screens/HomePage';
 import CoreComponentV2 from '../screens/core-component/CoreComponentV2';
 import CoreComponentV3 from '../screens/core-component/CoreComponentV3';
 import CoreComponentV4 from '../screens/core-component/CoreComponentV4';
+import LoginFreestylePage from '../screens/freestyle/LoginFreestylePage';
 
 const Stack = createNativeStackNavigator();
 
@@ -47,6 +48,13 @@ export const AppNavigation = () => {
         options={{
           headerBackTitle: 'Back',
           headerTitle: 'Core Component V4',
+        }}
+      />
+      <Stack.Screen
+        name="LoginFreestylePage"
+        component={LoginFreestylePage}
+        options={{
+          headerShown: false,
         }}
       />
     </Stack.Navigator>
