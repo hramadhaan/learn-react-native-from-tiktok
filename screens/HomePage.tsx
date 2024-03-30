@@ -7,6 +7,10 @@ import {
   TouchableOpacity,
 } from 'react-native';
 
+interface Props {
+  navigation: any;
+}
+
 const listOfContent = [
   {
     title: 'Materi: Core Component',
@@ -23,11 +27,15 @@ const listOfContent = [
         name: 'Core Component V3',
         screen: 'CoreComponentV3',
       },
+      {
+        name: 'Core Component V4',
+        screen: 'CoreComponentV4',
+      },
     ],
   },
 ];
 
-const HomePage = props => {
+const HomePage: React.FC<Props> = props => {
   return (
     <View style={styles.container}>
       <SectionList
