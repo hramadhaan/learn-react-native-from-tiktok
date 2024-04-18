@@ -5,6 +5,8 @@ import CoreComponentV2 from '../screens/core-component/CoreComponentV2';
 import CoreComponentV3 from '../screens/core-component/CoreComponentV3';
 import CoreComponentV4 from '../screens/core-component/CoreComponentV4';
 import LoginFreestylePage from '../screens/freestyle/LoginFreestylePage';
+import PlatformModule from '../screens/platform-spesific/PlatformModule';
+import FetchScreen from '../screens/networking/FetchScreen';
 
 const Stack = createNativeStackNavigator();
 
@@ -55,6 +57,21 @@ export const AppNavigation = () => {
         component={LoginFreestylePage}
         options={{
           headerShown: false,
+        }}
+      />
+      <Stack.Screen
+        name="PlatformModule"
+        component={PlatformModule}
+        options={{
+          headerShown: false,
+        }}
+      />
+      <Stack.Screen
+        name="FetchScreen"
+        component={FetchScreen}
+        options={{
+          headerBackTitle: 'Back',
+          headerTitle: 'Networking: Fetch',
         }}
       />
     </Stack.Navigator>

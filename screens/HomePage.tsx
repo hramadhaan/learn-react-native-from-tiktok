@@ -34,6 +34,24 @@ const listOfContent = [
     ],
   },
   {
+    title: 'Writing Platform Spesific Code',
+    data: [
+      {
+        name: 'Platform Module',
+        screen: 'PlatformModule',
+      },
+    ],
+  },
+  {
+    title: 'Networking',
+    data: [
+      {
+        name: 'Fetch',
+        screen: 'FetchScreen',
+      },
+    ],
+  },
+  {
     title: 'Freestyle dulu bos',
     data: [
       {
