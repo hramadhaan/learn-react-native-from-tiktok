@@ -52,6 +52,15 @@ const listOfContent = [
     ],
   },
   {
+    title: 'Notifications',
+    data: [
+      {
+        name: 'Local Notification',
+        screen: 'LocalNotification',
+      },
+    ],
+  },
+  {
     title: 'Freestyle dulu bos',
     data: [
       {

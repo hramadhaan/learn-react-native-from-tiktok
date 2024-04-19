@@ -7,6 +7,7 @@ import CoreComponentV4 from '../screens/core-component/CoreComponentV4';
 import LoginFreestylePage from '../screens/freestyle/LoginFreestylePage';
 import PlatformModule from '../screens/platform-spesific/PlatformModule';
 import FetchScreen from '../screens/networking/FetchScreen';
+import LocalNotification from '../screens/notifications/LocalNotification';
 
 const Stack = createNativeStackNavigator();
 
@@ -72,6 +73,15 @@ export const AppNavigation = () => {
         options={{
           headerBackTitle: 'Back',
           headerTitle: 'Networking: Fetch',
+        }}
+      />
+      <Stack.Screen
+        name="LocalNotification"
+        component={LocalNotification}
+        options={{
+          headerBackTitle: 'Back',
+          headerBackTitleVisible: false,
+          headerTitle: 'Notifications: Local Notification',
         }}
       />
     </Stack.Navigator>
