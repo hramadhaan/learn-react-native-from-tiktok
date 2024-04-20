@@ -42,6 +42,25 @@
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = learn_react_native_from_tiktok/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		915E290418443AE3F8C26C55 /* libPods-learn_react_native_from_tiktok.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-learn_react_native_from_tiktok.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9424CD606E413A4F778F13B9 /* Pods-learn_react_native_from_tiktok-learn_react_native_from_tiktokTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-learn_react_native_from_tiktok-learn_react_native_from_tiktokTests.debug.xcconfig"; path = "Target Support Files/Pods-learn_react_native_from_tiktok-learn_react_native_from_tiktokTests/Pods-learn_react_native_from_tiktok-learn_react_native_from_tiktokTests.debug.xcconfig"; sourceTree = "<group>"; };
+		B34820AE2BB655370035B228 /* FontAwesome6_Solid.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = FontAwesome6_Solid.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome6_Solid.ttf"; sourceTree = "<group>"; };
+		B34820AF2BB655370035B228 /* Foundation.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = Foundation.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Foundation.ttf"; sourceTree = "<group>"; };
+		B34820B02BB655370035B228 /* MaterialCommunityIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = MaterialCommunityIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/MaterialCommunityIcons.ttf"; sourceTree = "<group>"; };
+		B34820B12BB655370035B228 /* Fontisto.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = Fontisto.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Fontisto.ttf"; sourceTree = "<group>"; };
+		B34820B22BB655370035B228 /* Entypo.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = Entypo.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Entypo.ttf"; sourceTree = "<group>"; };
+		B34820B32BB655370035B228 /* FontAwesome5_Brands.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = FontAwesome5_Brands.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Brands.ttf"; sourceTree = "<group>"; };
+		B34820B42BB655370035B228 /* EvilIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = EvilIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/EvilIcons.ttf"; sourceTree = "<group>"; };
+		B34820B52BB655370035B228 /* FontAwesome6_Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = FontAwesome6_Regular.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome6_Regular.ttf"; sourceTree = "<group>"; };
+		B34820B62BB655370035B228 /* FontAwesome5_Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = FontAwesome5_Regular.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Regular.ttf"; sourceTree = "<group>"; };
+		B34820B72BB655370035B228 /* FontAwesome6_Brands.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = FontAwesome6_Brands.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome6_Brands.ttf"; sourceTree = "<group>"; };
+		B34820B82BB655370035B228 /* Zocial.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = Zocial.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Zocial.ttf"; sourceTree = "<group>"; };
+		B34820B92BB655370035B228 /* Ionicons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = Ionicons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Ionicons.ttf"; sourceTree = "<group>"; };
+		B34820BA2BB655370035B228 /* Feather.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = Feather.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Feather.ttf"; sourceTree = "<group>"; };
+		B34820BB2BB655370035B228 /* Octicons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = Octicons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Octicons.ttf"; sourceTree = "<group>"; };
+		B34820BC2BB655370035B228 /* MaterialIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = MaterialIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/MaterialIcons.ttf"; sourceTree = "<group>"; };
+		B34820BD2BB655370035B228 /* AntDesign.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = AntDesign.ttf; path = "../node_modules/react-native-vector-icons/Fonts/AntDesign.ttf"; sourceTree = "<group>"; };
+		B34820BE2BB655370035B228 /* SimpleLineIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = SimpleLineIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/SimpleLineIcons.ttf"; sourceTree = "<group>"; };
+		B34820BF2BB655370035B228 /* FontAwesome5_Solid.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = FontAwesome5_Solid.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Solid.ttf"; sourceTree = "<group>"; };
+		B34820C02BB655380035B228 /* FontAwesome.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = FontAwesome.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome.ttf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		FA972E17BAFF454C2C9B881F /* Pods-learn_react_native_from_tiktok.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-learn_react_native_from_tiktok.debug.xcconfig"; path = "Target Support Files/Pods-learn_react_native_from_tiktok/Pods-learn_react_native_from_tiktok.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -86,6 +105,7 @@
 		13B07FAE1A68108700A75B9A /* learn_react_native_from_tiktok */ = {
 			isa = PBXGroup;
 			children = (
+				B34820AD2BB655000035B228 /* Fonts */,
 				13B07FAF1A68108700A75B9A /* AppDelegate.h */,
 				13B07FB01A68108700A75B9A /* AppDelegate.mm */,
 				13B07FB51A68108700A75B9A /* Images.xcassets */,
@@ -135,6 +155,32 @@
 				00E356EE1AD99517003FC87E /* learn_react_native_from_tiktokTests.xctest */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		B34820AD2BB655000035B228 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				B34820BD2BB655370035B228 /* AntDesign.ttf */,
+				B34820B22BB655370035B228 /* Entypo.ttf */,
+				B34820B42BB655370035B228 /* EvilIcons.ttf */,
+				B34820BA2BB655370035B228 /* Feather.ttf */,
+				B34820C02BB655380035B228 /* FontAwesome.ttf */,
+				B34820B32BB655370035B228 /* FontAwesome5_Brands.ttf */,
+				B34820B62BB655370035B228 /* FontAwesome5_Regular.ttf */,
+				B34820BF2BB655370035B228 /* FontAwesome5_Solid.ttf */,
+				B34820B72BB655370035B228 /* FontAwesome6_Brands.ttf */,
+				B34820B52BB655370035B228 /* FontAwesome6_Regular.ttf */,
+				B34820AE2BB655370035B228 /* FontAwesome6_Solid.ttf */,
+				B34820B12BB655370035B228 /* Fontisto.ttf */,
+				B34820AF2BB655370035B228 /* Foundation.ttf */,
+				B34820B92BB655370035B228 /* Ionicons.ttf */,
+				B34820B02BB655370035B228 /* MaterialCommunityIcons.ttf */,
+				B34820BC2BB655370035B228 /* MaterialIcons.ttf */,
+				B34820BB2BB655370035B228 /* Octicons.ttf */,
+				B34820BE2BB655370035B228 /* SimpleLineIcons.ttf */,
+				B34820B82BB655370035B228 /* Zocial.ttf */,
+			);
+			name = Fonts;
 			sourceTree = "<group>";
 		};
 		BBD78D7AC51CEA395F1C20DB /* Pods */ = {
@@ -466,6 +512,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = SL4XL2QFYC;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = learn_react_native_from_tiktok/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -493,6 +540,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = SL4XL2QFYC;
 				INFOPLIST_FILE = learn_react_native_from_tiktok/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
